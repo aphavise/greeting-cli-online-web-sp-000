@@ -3,7 +3,7 @@ require_relative "../lib/greeting.rb"
 
 # code your CLI here!
 
-
+require_relative '../lib/greeting.rb'
 
 def greeting(name)
   "Hello #{name}. It's nice to meet you."
