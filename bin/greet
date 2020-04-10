@@ -9,3 +9,5 @@ require_relative '../lib/greeting.rb'
 puts 
 
 name = get.strip
+
+greeting(name)
